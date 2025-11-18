@@ -1,2 +1,2 @@
 # Chess
-This is a chess game.
+This is not a chess game.
